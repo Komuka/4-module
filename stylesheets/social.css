@@ -1,0 +1,95 @@
+.zagg{margin-left: 39rem;}
+.karta{
+margin-top: 3rem;
+margin-left: 6rem;
+}
+.komm8{
+font-family: centurygothic;
+color: #EBEBEB;
+font-size: 1.3vw;
+margin-top: 5rem;
+margin-bottom: 3rem;
+}
+
+.napom{
+display: flex;
+flex-direction: row;
+margin-left: 20rem;
+margin-top: 5rem;
+margin-bottom: -3rem;
+}
+.knopki{
+display: flex;
+flex-direction: column;
+margin-left: 6rem;
+}
+.knopka{
+margin-bottom: 3rem;
+}
+
+.komm9 p{
+font-family: centurygothic;
+color: #EBEBEB;
+font-size: 1.3vw;
+line-height: 33px;
+margin-top: 1rem;
+}
+.knopka, .knopka2{
+font-family: centurygothic;
+font-size: 1.5vw;
+padding: 15px 190px 15px 190px;
+color: #8F00FF;
+background-color: #EBEBEB;
+border: none;
+}
+.knopka:hover, .knopka2:hover {
+background-color: #8F00FF;
+color: #EBEBEB;
+}
+.knopka2{
+padding: 15px 190px 15px 183px;
+}
+
+
+@media only screen and (min-device-width: 1367px) and (max-device-width: 1440px) {
+.zagg{margin-left: 31rem;}
+.napom{
+display: flex;
+flex-direction: row;
+margin-left: 14rem;
+margin-top: 5rem;
+margin-bottom: -3rem;
+}
+.karta{
+margin-top: 3rem;
+margin-left: 4rem;
+}
+}
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1366px) {
+  .zagg{margin-left: 29rem;}
+  .napom{
+  display: flex;
+  flex-direction: row;
+  margin-left: 12rem;
+  margin-top: 5rem;
+  margin-bottom: -3rem;
+  }
+  .karta{
+  margin-top: 3rem;
+  margin-left: 4rem;
+  }
+}
+@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+  .zagg{margin-left: 22rem;}
+  .napom{
+  display: flex;
+  flex-direction: row;
+  margin-left: 5rem;
+  margin-top: 5rem;
+  margin-bottom: -3rem;
+  }
+  .karta{
+  margin-top: 3rem;
+  margin-left: 3rem;
+  }
+}

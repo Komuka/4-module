@@ -1,0 +1,203 @@
+.navbar {
+padding: 0.1rem 40rem 0rem 3rem;
+}
+.zagg{margin-left: 0rem;}
+.alco{
+font-family: GarciaMarquez;
+color: #EBEBEB;
+font-size: 3vw;
+margin-left: 3rem;
+margin-top: 2rem;
+margin-bottom: 2rem;
+}
+.mor{
+font-family: centurygothic;
+color: #EBEBEB;
+font-size: 2.5vw;
+margin-left: 7rem;
+margin-top: 2rem;
+}
+.kompl{
+display: flex;
+margin-bottom: 2rem;
+}
+.ingrid{
+margin-left: 7rem;
+margin-top: 2rem;
+display: flex;
+flex-direction: column;
+}
+.ingrid p{
+font-family: centurygothic;
+color: #EBEBEB;
+font-size: 1.5vw;
+}
+.krug{
+width: 40px;
+height: 40px;
+border-radius: 50%;
+border: 2px solid #EBEBEB;
+margin-right: 1.5rem;
+}
+.yag{
+margin-top: 0.5rem;
+}
+.ha{
+display: flex;
+}
+.stakan{
+margin-left: 70rem;
+margin-top: -3rem;
+}
+.stakan2{
+margin-left: 70rem;
+margin-top: -3rem;
+margin-bottom: 1rem;
+}
+.rubl{
+font-family: centurygothic;
+color: #EBEBEB;
+font-size: 2.5vw;
+margin-left: 75rem;
+margin-top: -3.5rem;
+margin-bottom: 2rem;
+}
+.stakan3{
+margin-left: 69rem;
+margin-top: -2rem;
+}
+.stakan4{
+margin-left: 71rem;
+margin-top: -2rem;
+}
+.stakan5{
+margin-left: 78rem;
+margin-top: -2rem;
+}
+.stakan6{
+margin-left: 68rem;
+margin-top: -3rem;
+margin-bottom: 0.5rem;
+}
+.pervoee{
+background-position: 160px;
+}
+.footer{
+margin-top: 5rem;
+}
+
+/* адаптивы */
+@media only screen and (min-device-width: 1367px) and (max-device-width: 1440px) {
+.stakan, .stakan2{
+margin-left: 45rem;
+margin-top: -3rem;
+}
+.stakan3{
+margin-left: 43rem;
+margin-top: -3rem;
+}
+.stakan4{
+margin-left: 47rem;
+margin-top: -3rem;
+}
+.stakan5{
+margin-left: 53rem;
+margin-top: -3rem;
+}
+.stakan6{
+margin-left: 45rem;
+margin-top: -3rem;
+}
+.rubl{
+margin-left: 55rem;
+}
+.pervoee{
+background-position: 130px;
+margin-left: 40rem;
+}
+.navbar {
+display: flex;
+justify-content: space-between;
+padding: 0.1rem 28rem 0rem 3rem;
+}
+}
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1366px) {
+  .stakan, .stakan2{
+  margin-left: 45rem;
+  margin-top: -3rem;
+  }
+  .stakan3{
+  margin-left: 40rem;
+  margin-top: -3rem;
+  }
+  .stakan4{
+  margin-left: 44rem;
+  margin-top: -3rem;
+  }
+  .stakan5{
+  margin-left: 50rem;
+  margin-top: -3rem;
+  }
+  .stakan6{
+  margin-left: 42rem;
+  margin-top: -3rem;
+  }
+  .rubl{
+  margin-left: 55rem;
+  }
+  .pervoee{
+  background-position: 125px;
+  margin-left: 37rem;
+  }
+  .navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.1rem 25rem 0rem 3rem;
+  }
+}
+@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+
+  .stakan, .stakan2{
+  margin-left: 25rem;
+  margin-top: -3rem;
+  }
+  .stakan3{
+  margin-left: 22rem;
+  margin-top: -3rem;
+  }
+  .stakan4{
+  margin-left: 25rem;
+  margin-top: -3rem;
+  }
+  .stakan5{
+  margin-left: 30rem;
+  margin-top: -3rem;
+  }
+  .stakan6{
+  margin-left: 23rem;
+  margin-top: -3rem;
+  }
+  .rubl{
+  margin-left: 35rem;
+  }
+  .pervoee{
+  background-position: 125px;
+  margin-left: 37rem;
+  }
+  .navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.1rem 25rem 0rem 3rem;
+  }
+  .ingrid p, .komm10 p{
+  font-size: 1.8vw;
+  }
+  .navbar {
+  padding: 0.1rem 18rem 0rem 3rem;
+  }
+  .pervoee{
+  font-size: 1.8vw;
+  background-position: 114px;
+  margin-left: 27rem;
+  }
+}

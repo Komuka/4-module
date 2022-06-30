@@ -1,0 +1,223 @@
+.background3{
+filter: blur(0px);
+}
+.background3-2{
+filter: blur(15px);
+}
+
+.bolsh{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+margin-left: 16rem;
+}
+
+.bir1 img{
+width: 45%;
+}
+.nya, .nya2, .nya3, .nya4,.nya5, .nya6 {
+font-family: centurygothic;
+color: #EBEBEB;
+font-size: 1.3vw;
+margin-top: 2rem;
+margin-left: 1rem;
+}
+.birka1, .birka2, .birka3, .birka4, .birka5, .birka6{
+font-family: centurygothic;
+font-size: 1.5vw;
+padding: 8px 60px 8px 15px;
+background-color: #EBEBEB;
+border: none;
+background-image: url("../img/strelka.svg");
+background-repeat : no-repeat;
+background-position: 195px;
+margin-top: 2rem;
+margin-left: 1rem;
+}
+.birka1:hover, .birka2:hover, .birka3:hover, .birka4:hover, .birka5:hover, .birka6:hover {
+background-color: #9627DA;
+color: #EBEBEB;
+background-image: url("../img/strelka2.svg");
+}
+.bir1{margin-top: 5rem;}
+.bir2{margin-top: 5.7rem;}
+.bir3{margin-top: 5.7rem;}
+.bir4{margin-top: 7em;}
+.bir5{margin-top: 7em;}
+.bir6{margin-top: 7.6em;}
+
+.nya2, .nya4{margin-left: 1.3rem;}
+.nya3, .nya5{margin-left: 0rem;}
+.nya6{margin-left: 0.7rem;}
+
+.birka2{margin-left: 1.5rem;}
+.birka3{margin-left: 0.1rem;}
+.birka4{margin-left: 1.3rem;}
+.birka5{margin-left: 0.2rem;}
+
+.bir2 img{width: 48%;}
+.bir3 img{width: 46%;}
+.bir4 img{width: 52%;}
+.bir5 img{width: 39%;}
+.bir6 img{width: 43%;}
+
+/* уведомление3 */
+.pryam:hover, .pryam2:hover, .pryam3:hover, .pryam4:hover, .pryam5:hover, .pryam6:hover {
+cursor: url('../img/cursor3.svg'), default;
+}
+.pryam-2{
+display: block;
+}
+.pryam, .pryam2, .pryam3, .pryam4, .pryam5, .pryam6{
+position: absolute;
+width: 1000px;
+height: 540px;
+border:1px solid;
+background: #EBEBEB;
+margin-left: 28rem;
+margin-top: 15rem;
+z-index: 1;
+display: none;
+}
+.tr p, .tr2 p, .tr3 p, .tr4 p, .tr5 p, .tr6 p{
+color: #171718;
+font-family: GarciaMarquez;
+font-size: 3vw;
+margin-top: -9.5rem;
+margin-left: 0rem;
+}
+.krestok, .krestok2, .krestok3, .krestok4, .krestok5, .krestok6{
+background-image: url('../img/krest.svg');
+background-repeat: no-repeat;
+background-size: 50px;
+width: 650px;
+height: 230px;
+background-position: right top;
+margin-top: 1rem;
+margin-left: 20.3rem;
+cursor: pointer;
+}
+.krestok:hover, .krestok2:hover, .krestok3:hover, .krestok4:hover, .krestok5:hover, .krestok6:hover{
+background-image: url('../img/krest2.svg');
+background-repeat: no-repeat;
+}
+.ok, .ok2, .ok3, .ok4, .ok5, .ok6{
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
+.it1{
+width: 500px;
+margin-top: -14rem;
+margin-left: 0rem;
+}
+.it2{
+width: 350px;
+margin-top: -14rem;
+margin-left: 3rem;
+}
+.it3{
+width: 350px;
+margin-top: -14rem;
+margin-left: 3rem;
+}
+.it4{
+width: 450px;
+margin-top: -12rem;
+margin-left: 1rem;
+}
+.it5{
+width: 400px;
+margin-top: -11rem;
+margin-left: 3rem;
+}
+.it6{
+width: 400px;
+margin-top: -11rem;
+margin-left: 3rem;
+}
+.pod, .pod3, .pod4, .pod5{
+font-family: centurygothic;
+color: #171718;
+font-size: 1.3vw;
+margin-top: -20rem;
+margin-left: 31.5rem;
+line-height: 32px;
+}
+.pod5{
+font-family: centurygothic;
+color: #171718;
+font-size: 1.3vw;
+margin-top: -19rem;
+margin-left: 31.5rem;
+line-height: 32px;
+}
+.pod6{
+font-family: centurygothic;
+color: #171718;
+font-size: 1.3vw;
+margin-top: -17rem;
+margin-left: 31.5rem;
+line-height: 32px;
+}
+.pod2{
+font-family: centurygothic;
+color: #171718;
+font-size: 1.3vw;
+margin-top: -21rem;
+margin-left: 31.5rem;
+line-height: 32px;
+}
+.podd, .podd2, .podd3, .podd4, .podd5, .podd6{
+font-family: GarciaMarquez;
+color: #171718;
+font-size: 2.5vw;
+margin-top: 10rem;
+margin-left: 31.5rem;
+margin-bottom: -1.5rem;
+}
+.oops{
+font-family: centurygothic;
+font-size: 1vw;
+color: #848487;
+margin-left: 49rem;
+margin-top: 0.5rem;
+}
+.kup, .kup2, .kup3, .kup4, .kup5, .kup6 {
+font-family: centurygothic;
+font-size: 1.5vw;
+padding: 8px 60px 8px 15px;
+color: #EBEBEB;
+background-color: #171718;
+border: none;
+background-image: url("../img/strelka2.svg");
+background-repeat : no-repeat;
+background-position: 120px;
+margin-left: 49rem;
+margin-top: -5rem;
+z-index: 1;
+}
+.kup3, .kup6 {
+font-family: centurygothic;
+font-size: 1.5vw;
+padding: 8px 60px 8px 15px;
+color: #EBEBEB;
+background-color: #848487;
+border: none;
+background-image: url("../img/strelka2.svg");
+background-repeat : no-repeat;
+background-position: 120px;
+margin-left: 49rem;
+margin-top: -5rem;
+z-index: 1;
+}
+.kup:hover, .kup2:hover, .kup3:hover, .kup4:hover, .kup5:hover, .kup6:hover{
+background-color: #9627DA;
+color: #171718;
+background-image: url("../img/strelka.svg");
+cursor: url('../img/cursor4.svg'), default;
+}
+.kup3:hover, .kup6:hover{
+background-image: url("../img/strelka2.svg");
+background-color: #848487;
+color: #EBEBEB;
+cursor: url('../img/cursor3.svg'), default;
+}

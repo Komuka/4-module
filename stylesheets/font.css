@@ -1,0 +1,22 @@
+@font-face {
+font-family: "GarciaMarquez";
+src: url("../fonts/GarciaMarquez.woff") format("woff"),
+     url("../fonts/GarciaMarquez.ttf") format("ttf"),
+     url("../fonts/GarciaMarquez.otf") format("otf");
+font-style: normal;
+font-weight: normal;
+}
+@font-face {
+font-family: "centurygothic";
+src: url("../fonts/centurygothic.woff") format("woff"),
+     url("../fonts/centurygothic.ttf") format("ttf");
+font-style: normal;
+font-weight: normal;
+}
+@font-face {
+font-family: "centurygothic_bold";
+src: url("../fonts/centurygothic_bold.woff") format("woff"),
+     url("../fonts/centurygothic_bold.ttf") format("ttf");
+font-style: normal;
+font-weight: bold;
+}
